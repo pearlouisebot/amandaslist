@@ -6,6 +6,7 @@ import HostCommunity from './components/HostCommunity'
 import Pricing from './components/Pricing'
 import Footer from './components/Footer'
 import VerificationModal from './components/VerificationModal'
+import PlaidDemo from './components/PlaidDemo'
 
 export default function App() {
   const [selectedCommunity, setSelectedCommunity] = useState(null)
@@ -13,6 +14,7 @@ export default function App() {
   return (
     <div className="min-h-screen font-sans">
       <Hero />
+      <PlaidDemo />
       <Communities onSelect={setSelectedCommunity} />
       <Benefits />
       <HostCommunity />
