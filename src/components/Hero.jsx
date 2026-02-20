@@ -7,10 +7,12 @@ export default function Hero() {
           <span className="w-2 h-2 rounded-full bg-gold-400 animate-pulse" />
           Invite-Only Platform
         </div>
-        <h1 className="text-5xl md:text-7xl font-bold tracking-tight mb-6">
-          <span className="text-white">Verified Communities,</span><br />
-          <span className="bg-gradient-to-r from-gold-400 to-gold-200 bg-clip-text text-transparent">Real Connections</span>
+        <h1 className="text-6xl md:text-8xl font-bold tracking-tight mb-4">
+          <span className="bg-gradient-to-r from-gold-400 to-gold-200 bg-clip-text text-transparent">Amanda'sList</span>
         </h1>
+        <p className="text-2xl md:text-3xl font-semibold text-white mb-6">
+          Verified Communities, Real Connections
+        </p>
         <p className="text-lg md:text-xl text-gray-400 max-w-2xl mx-auto mb-10 leading-relaxed">
           The exclusive classifieds, deal flow, and funding platform for verified communities.
           Trade, invest, and connect with people you actually trust.
