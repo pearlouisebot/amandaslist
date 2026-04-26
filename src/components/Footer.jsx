@@ -38,7 +38,7 @@ export default function Footer() {
         )}
       </div>
       <div className="max-w-6xl mx-auto mt-20 pt-8 border-t border-white/5 flex flex-col sm:flex-row justify-between items-center gap-4">
-        <p className="text-sm text-gray-600">© 2026 Amanda's List. All rights reserved.</p>
+        <p className="text-sm text-gray-600">© 2026 amandaslist. All rights reserved.</p>
         <div className="flex gap-6 text-sm text-gray-500">
           <a href="#" className="hover:text-white transition">Privacy</a>
           <a href="#" className="hover:text-white transition">Terms</a>

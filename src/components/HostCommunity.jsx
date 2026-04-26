@@ -6,7 +6,7 @@ export default function HostCommunity() {
           <span className="text-gold-400">Host</span> Your Community
         </h2>
         <p className="text-gray-400 max-w-2xl mx-auto mb-10 leading-relaxed">
-          Run a private club, alumni group, or investment network? Bring your community to Amanda's List
+          Run a private club, alumni group, or investment network? Bring your community to amandaslist
           and give your members access to trusted classifieds, deal flow, and cross-community connections.
         </p>
         <div className="grid sm:grid-cols-3 gap-6 mb-10">

@@ -8,7 +8,7 @@ export default function Hero() {
           Invite-Only Platform
         </div>
         <h1 className="text-6xl md:text-8xl font-bold tracking-tight mb-4">
-          <span className="bg-gradient-to-r from-gold-400 to-gold-200 bg-clip-text text-transparent">Amanda'sList</span>
+          <span className="bg-gradient-to-r from-gold-400 to-gold-200 bg-clip-text text-transparent">amandaslist</span>
         </h1>
         <p className="text-2xl md:text-3xl font-semibold text-white mb-6">
           Verified Communities, Real Connections
